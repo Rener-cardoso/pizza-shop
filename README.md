@@ -42,7 +42,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Rener-cardoso/pizza-shop.git
-cd pizza-shop
 ```
 
 Install the dependencies:
