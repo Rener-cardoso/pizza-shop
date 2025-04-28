@@ -3,6 +3,13 @@
 A platform for pizzeria management, where you can track important metrics such as monthly revenue, number of orders, cancellations, and more.  
 You can also manage the order statuses, making it easier to control the flow from order placement to delivery.
 
+## 🔑 Environment Variables
+
+Before running the project, you need to configure the environment variables.
+
+1. Create a file called `.env.local` and paste all the variables from `.env.local.example`
+2. Make sure all variables are correctly set inside the `.env.local` file.
+
 ## ⚙️ Requirements
 
 This project depends on a backend to work properly.
